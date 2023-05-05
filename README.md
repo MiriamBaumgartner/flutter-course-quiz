@@ -1,7 +1,7 @@
 # flutter_application_1
 
 I created this project while doing a Udemy course. 
-[Udemy Course] (https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps
 
 ## Getting Started
 
