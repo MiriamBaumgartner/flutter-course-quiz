@@ -1,6 +1,7 @@
 # flutter_application_1
 
-A new Flutter project.
+I created this project while doing a Udemy course. 
+[Udemy Course] (https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps)
 
 ## Getting Started
 
